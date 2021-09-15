@@ -1,0 +1,24 @@
+table, td, th {
+text-align: center;
+border: groove;
+box-shadow: 0px 1px 0px;}
+th{
+    background-color: rgb(153, 226, 111);
+    color: rgb(3, 3, 3);
+}
+h2{
+    margin-left:500px 
+}
+td {
+    width: 400px;
+}
+
+.celda2{
+background-color: turquoise;
+}
+.celda6{
+background-color: violet;
+}
+.celda3 ,.celda5 , .celda8{
+color: red;
+}

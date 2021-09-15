@@ -1,0 +1,12 @@
+table, tr, td, th {
+text-align: center;
+background-color: rgb(109, 204, 157);
+border: groove;
+box-shadow: 0px 2px 2px; color: indigo;}
+th{
+    background-color: green;
+    color: honeydew;
+}
+.columna{
+    background-color: hotpink;
+}
