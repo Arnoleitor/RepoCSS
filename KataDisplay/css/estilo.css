@@ -1,0 +1,55 @@
+body{
+    margin:0 0 0 0;
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    background: yellow;
+}
+#izq{
+    width: 100%;
+    height: 50%;
+    background: red;
+    display: flex;
+}
+#der{
+    width: 100%;
+    height: 50%;
+    background: rgb(212, 127, 127);
+    display: flex;
+}
+#header{
+    height:10vh;
+    background-color: turquoise;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    }
+#body{
+    height: 80vh;
+    background-color: white;
+}
+#fsup{
+ height: 50%;  
+ background-color: rgb(255, 0, 255); 
+}
+#finf{
+    width: 50%;
+    background-color: rgb(228, 13, 13);
+    display: flex;
+}
+#finf-izq{
+background-color: burlywood;
+width:40%;
+height:100%;
+}
+#finf-der{
+background-color: blue;
+width: 40%;
+height: 100%;
+}
+#finf-cent{
+    background-color: cornflowerblue;
+}
+
+
